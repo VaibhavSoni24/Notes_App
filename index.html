@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notes App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Notes App</h1>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search notes...">
+            </div>
+        </header>
+        
+        <div class="notes-form">
+            <input type="hidden" id="note-id">
+            <input type="text" id="note-title" placeholder="Note Title" required>
+            <textarea id="note-content" placeholder="Note Content" required></textarea>
+            <div class="form-buttons">
+                <button id="save-btn">Save Note</button>
+                <button id="cancel-btn" class="hidden">Cancel</button>
+            </div>
+        </div>
+        
+        <div class="notes-container" id="notes-container">
+            <!-- Notes will be displayed here dynamically -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

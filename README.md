@@ -1,6 +1,6 @@
 # Notes App 📒
 
-A simple and lightweight Notes App built using plain HTML, CSS, and JavaScript. It allows users to create, save, and delete notes—persisted in the browser using localStorage.
+A simple and lightweight Notes App built using plain HTML, CSS, and JavaScript. It allows users to create, save, and delete notes, persisted in the browser using localStorage.
 
 ## ✨ Features
 
@@ -23,4 +23,4 @@ A simple and lightweight Notes App built using plain HTML, CSS, and JavaScript. 
 2. Open `index.html` in your browser
 3. Start writing notes!
 
-For live view: https://notes-app-vaibhavsoni.netlify.app/
+[View it live here]((https://notes-app-vaibhavsoni.netlify.app/))

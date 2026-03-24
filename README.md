@@ -23,4 +23,4 @@ A simple and lightweight Notes App built using plain HTML, CSS, and JavaScript. 
 2. Open `index.html` in your browser
 3. Start writing notes!
 
-[View it live here]((https://notes-app-vaibhavsoni.netlify.app/))
+[View it live here](https://notes-app-vaibhavsoni.netlify.app/)
